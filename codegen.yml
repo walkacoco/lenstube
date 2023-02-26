@@ -1,4 +1,4 @@
-schema: https://api-mumbai.lens.dev
+schema:https://api-mumbai.lens.dev
 hooks:
   afterOneFileWrite:
     - eslint --fix
